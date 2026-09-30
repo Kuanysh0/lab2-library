@@ -1,4 +1,4 @@
-TITLE = "Kitaphana"
+TITLE = "Kitaphana (variant B)"
 VERSION = "1.0"
 
 def main():
